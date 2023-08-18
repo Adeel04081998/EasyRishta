@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026839084152",
+    "project_id": "easy-rishta-ac1e8",
+    "storage_bucket": "easy-rishta-ac1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026839084152:android:0c25db9badd24842b0418d",
+        "android_client_info": {
+          "package_name": "com.easyrishta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026839084152-62gqescvlidm06tlsptqpo8bql97iqbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyrishta",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1026839084152-seeu5c5q1ai6dvc3ljlmv9qnpjpodepe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easyrishta",
+            "certificate_hash": "6b5252bb4b672c6b79bf98d8e3836f176294a161"
+          }
+        },
+        {
+          "client_id": "1026839084152-rcrhgishqnq8rn73ng7ebu7rku3ka4ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXXac2XWEuAXp9QNbrUTH67QPK_U3BTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026839084152-rcrhgishqnq8rn73ng7ebu7rku3ka4ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
